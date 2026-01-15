@@ -147,7 +147,7 @@ body {
     text-align: center;
 }
 .bar a:hover {
-    color:#ffdb7f;;
+    color:#ffdb7f;
     text-decoration: none;
     padding: 15px;
     display: block;
@@ -283,12 +283,4 @@ h4 {
     text-align: justify;
     text-indent: 24px;
     text-shadow: 4px 4px 12px rgb(92, 79, 62);
-
 }
-
-
-
-
-
-
-
