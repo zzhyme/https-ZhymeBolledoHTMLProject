@@ -297,7 +297,7 @@ form {
     background-color: #786c4b;
     width: 440px;
     height: 58px;
-    margin-left: 30%;
+    margin-left: 32%;
     margin-top: -77.5px;
     display: flex;
 }
@@ -361,3 +361,4 @@ form button:hover {
     text-align: center;
     text-shadow: 5px 8px 12px rgb(43, 36, 28);
 }
+
