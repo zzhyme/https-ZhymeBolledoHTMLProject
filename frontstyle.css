@@ -111,8 +111,8 @@ body {
     box-shadow: 2px 4px 4px 4px #b09c6698;
 }
 .img3 {
-    width: 35%;
-    height: 20%;
+    width: 30%;
+    height: 16%;
     margin-left: 2.5%;
     margin-right: 73%;
     margin-top: -60%;
@@ -283,4 +283,5 @@ h4 {
     text-align: justify;
     text-indent: 24px;
     text-shadow: 4px 4px 12px rgb(92, 79, 62);
+
 }
