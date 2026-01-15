@@ -166,7 +166,7 @@ form {
     background-color: #786c4b;
     width: 440px;
     height: 58px;
-    margin-left: 30%;
+    margin-left: 40%;
     margin-top: -77.5px;
     display: flex;
 }
@@ -284,3 +284,4 @@ h4 {
     text-indent: 24px;
     text-shadow: 4px 4px 12px rgb(92, 79, 62);
 }
+
