@@ -52,8 +52,8 @@ h3, h4 {
     display: block;
 }
 .img3 {
-    width: 60% !important;
-    height: 50% !important;
+    width: 50% !important;
+    height: 30% !important;
     margin: 20px auto !important;
     position: static !important;
     display: block;   
@@ -285,3 +285,4 @@ h4 {
     text-shadow: 4px 4px 12px rgb(92, 79, 62);
 
 }
+
